@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+autenticacao-service:
+  nome: auth-service
+  url: http://localhost:8080
